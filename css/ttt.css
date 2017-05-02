@@ -1,0 +1,30 @@
+
+
+.ttt > ul {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.ttt li {
+  height: 200px;
+  box-sizing: border-box;
+  padding: 10px;
+  width: 200px;
+  border: 1px solid black;
+  float: left;
+  font-size: 8em;
+  text-align: center;
+  list-style: none;
+}
+
+.ttt li:hover {
+  background-color: yellow;
+}
+
+.white {
+  background-color: white;
+}
